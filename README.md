@@ -9,3 +9,9 @@
 - Write failing tests
 - Write code to make those tests pass
 - Write new failing tests...
+
+**Naming conventions for files**
+- simple_calc
+- test_simple_calc
+
+
